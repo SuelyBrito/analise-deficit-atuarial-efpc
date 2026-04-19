@@ -175,6 +175,7 @@ A sustentabilidade depende de:
 
 Mesmo com déficits contábeis, o equilíbrio pode ser alcançado por meio de gestão técnica e prudente.
 ________________________________________
+
 ### 🧩 Sobre o Projeto
 
 Projeto desenvolvido como parte de desafio prático da DIO, utilizando Inteligência Artificial como ferramenta de aprendizagem ativa.
@@ -184,6 +185,15 @@ O trabalho combina:
 -	Engenharia de prompts
 -	Análise técnica
 -	Estruturação de conhecimento
+________________________________________
+### Sugestão de Nome do Repositório
+analise-deficit-atuarial-efpc
+________________________________________
+
+### 📝 Descrição (DIO)
+
+Projeto focado na análise dos déficits atuariais em planos BD das EFPC, explorando duration, ALM, taxa de juros e estratégia de investimentos.
+Utiliza IA(notebookLm) como ferramenta de aprendizado, combinando fontes oficiais com análise crítica e construção de miniguia técnico.
 ________________________________________
 
 
