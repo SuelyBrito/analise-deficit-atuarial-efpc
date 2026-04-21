@@ -178,7 +178,7 @@ ________________________________________
 
 ### 🧩 Sobre o Projeto
 
-Projeto desenvolvido como parte de desafio prático da DIO, utilizando Inteligência Artificial como ferramenta de aprendizagem ativa.
+Projeto desenvolvido como parte de desafio prático da DIO, utilizando Inteligência Artificial(notebookLm) como ferramenta de aprendizagem ativa.
 
 O trabalho combina:
 -	Curadoria de fontes oficiais
